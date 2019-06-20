@@ -7,6 +7,6 @@ Then all you need to do is download the project from github, if you done this vi
 
 #Example
 If you are very lazy or you just don't wan't to let your system run all the time and so on you are welcome to create an account at
-https://www.wearethegamers.de/ then go to profile add a email address and configure your ps2 alert settings.
+https://www.wearethegamers.de/ then go to profile add a email address and configure your ps2 alert settings.Currently only Cobalt is used for alerting on my website.
 
 If you find any bugs or have a cool idea for the alerting system or for my website let me know.
