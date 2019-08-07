@@ -1,7 +1,7 @@
 # PlanetSide2EmailAlertNotification
 This is a tiny script which sends you an email if an alert is happening in planetside2 on a given server in a given time range.
 
-#What you need
+# What you need
 You only need a ServiceId for the census api from daybreak, a machine which the script can run on and access to a mail server.
 
 # How to use it?
