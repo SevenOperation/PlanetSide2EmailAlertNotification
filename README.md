@@ -13,3 +13,4 @@ If you are very lazy or you just don't wan't to let your system run all the time
 https://www.wearethegamers.de/ then go to profile add a email address and configure your ps2 alert settings.Currently only Cobalt is used for alerting on my website.
 
 If you find any bugs or have a cool idea for the alerting system or for my website let me know.
+by sending an email to sevenoperation@wearethegamers.de or just write the idea into the wishlist on my website.
