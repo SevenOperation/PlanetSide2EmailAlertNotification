@@ -1,6 +1,6 @@
 Config:
         ServiceId: "" # Service Id given by daybreak to use their api
-        WorldID: "" #World id which is used for subcribtion also possible all for every server
+        WorldId: "" #World id which is used for subcribtion also possible all for every server
         UseDatabase: false # if enabled the script will try to get the email address from the database instead of using this yaml
         MailServerIP: ""
         MailSenderAddress: ""
@@ -12,7 +12,9 @@ Config:
         #DatabaseQueryCommand: ""
         #Only used if useDatabase is set to false:
         Recipients: []
-        StartTime: "" #After which hour of the day the alerting mails will be send (24h)
-        EndTime: "" #After which hour of the day the alerting mails won't be sended anymore (24h) 
+        StartTime: "" #After which hour of the day the alerting mails will be send (24h) ## Not used
+        EndTime: "" #After which hour of the day the alerting mails won't be sended anymore (24h) ## Not used 
         Alert: true # if set to true only alert events will create email if set to false all events will create those
         EndAlertNotification: false # If set to true a email will also be sended if the alert has ended
+        ErrorRecipient: "" # Your mail address errors get sended to
+        ErroSender: "" # Mailaddress which sends the error report
